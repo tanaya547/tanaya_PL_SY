@@ -127,3 +127,105 @@ while True:
 
     else:
         print("Invalid choice! Please try again.")
+
+
+#output
+ #LIBRARY MANAGEMENT SYSTEM
+#1. Add Book
+#2. Register Patron
+#3. Borrow Book
+#4. Return Book
+#5. Display Books
+#6. Display Patrons
+#7. Exit
+#Enter your choice: 1
+#Enter Book ID: 123
+#Enter Book Title: hunger games
+#Enter Author Name: suzzane collins
+#Book added successfully!
+
+ #LIBRARY MANAGEMENT SYSTEM
+#1. Add Book
+#2. Register Patron
+#3. Borrow Book
+#4. Return Book
+#5. Display Books
+#6. Display Patrons
+#7. Exit
+#Enter your choice: 2
+#Enter Patron ID: 547
+#Enter Patron Name: Tanaya
+#Patron registered successfully!
+
+#LIBRARY MANAGEMENT SYSTEM
+#1. Add Book
+#2. Register Patron
+#3. Borrow Book
+#4. Return Book
+#5. Display Books
+#6. Display Patrons
+#7. Exit
+#Enter your choice:3
+#Enter Patron ID: 547
+#Enter Book ID: 123
+#Tanaya borrowed 'hunger games'.
+
+# LIBRARY MANAGEMENT SYSTEM
+#1. Add Book
+#2. Register Patron
+#3. Borrow Book
+#4. Return Book
+#5. Display Books
+#6. Display Patrons
+#7. Exit
+#Enter your choice: 4
+#Enter Patron ID: 547
+#Enter Book ID: 123
+#Tanaya returned 'hunger games'.
+
+# LIBRARY MANAGEMENT SYSTEM
+#1. Add Book
+#2. Register Patron
+#3. Borrow Book
+#4. Return Book
+#5. Display Books
+#6. Display Patrons
+#7. Exit
+#Enter your choice:5
+#Library Books:
+#ID: 123, Title: hunger games, Author: suzzane collins, Status: Available
+
+# LIBRARY MANAGEMENT SYSTEM
+#1. Add Book
+#2. Register Patron
+#3. Borrow Book
+#4. Return Book
+#5. Display Books
+#6. Display Patrons
+#7. Exit
+#Enter your choice:6
+#Registered Patrons:
+#Patron ID: 547, Name: Tanaya
+#No books borrowed.
+
+# LIBRARY MANAGEMENT SYSTEM
+#1. Add Book
+#2. Register Patron
+#3. Borrow Book
+#4. Return Book
+#5. Display Books
+#6. Display Patrons
+#7. Exit
+#Enter your choice:7
+#Thank you for using Library Management System!
+
+# LIBRARY MANAGEMENT SYSTEM
+#1. Add Book
+#2. Register Patron
+#3. Borrow Book
+#4. Return Book
+#5. Display Books
+#6. Display Patrons
+#7. Exit
+#Enter your choice:9
+#Invalid choice! Please try again.
