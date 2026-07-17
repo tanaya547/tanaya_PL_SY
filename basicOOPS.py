@@ -26,3 +26,13 @@ account.display()
 account.deposit(5000)
 account.withdraw(500)
 account.display()
+
+#output
+#----- Account Details -----
+#Account Holder : Tanaya
+#Current Balance: ₹ 10000
+#Deposited ₹ 5000
+#Withdrawn ₹ 500
+#----- Account Details -----
+#Account Holder : Tanaya
+#Current Balance: ₹ 14500
